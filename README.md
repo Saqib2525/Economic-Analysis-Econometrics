@@ -1,1 +1,1 @@
-# Economic-Analysis-Econometrics
+# Economic Analysis / Econometrics
